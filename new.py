@@ -1,1 +1,1 @@
-print("This is just a example")
+print("This is done for example")
